@@ -1,0 +1,278 @@
+/*
+Theme Name: Doris Visual Studio
+Author: Yitong Duan
+*/
+@import url('https://fonts.googleapis.com/css?family=Anton|Chakra+Petch|Cormorant+Upright|Kodchasan|" rel="stylesheet');
+.daohang .menu-primary-menu-container ul li{
+	list-style: none;
+	display: inline-block;
+	padding-top: 20px;
+	padding-right: 40px;
+}
+
+.daohang .menu-primary-menu-container ul li a{
+	color: black;
+	font-size: 1.2em;
+}
+
+.navbar .logo {
+	font-size: 2em;
+	color: lightblue !important; 
+	font-family: 'Chakra Petch', sans-serif;
+}
+
+.menu-primary-menu-container ul li a:hover{
+	color: grey;
+}
+
+.kepian{
+	display: inline-block;
+}
+
+.zuopinji .tupian .wp-post-image{
+	text-align: center;
+	max-width: 100%;
+    height: auto;
+
+}
+
+.zuopinjibiaoti h3{
+	padding-top: 120px;
+	padding-bottom: 40px;
+	text-align: center;
+	font-size: 2.3em;
+	font-family: 'Anton', sans-serif;
+}
+
+.tupian h2{
+	font-size: 2em;
+	font-family: 'Kodchasan', sans-serif;
+}
+
+ .fuwu .row .col-sm-6 .simpleParallax .wp-post-image{
+	padding-top: 40px;
+}
+
+.yuanxing .row .col-lg-4 h2{
+	font-family: 'Chakra Petch', sans-serif;
+}
+
+.yuanxing .row .col-lg-4 p{
+	font-family: 'Cormorant Upright', serif;
+	font-size: 1.1em;
+}
+
+.yuanxing .row .col-lg-4 .wp-post-image{
+	display: block;
+	margin: 0;
+}
+
+.servicepage p{
+	font-family: 'Cormorant Upright', serif;
+	
+	font-size: 1.1em;
+}
+
+.zuopinji .tupian h2{
+	font-size: 2em;
+	text-align: center;
+	font-family: 'Chakra Petch', sans-serif;
+}
+
+.zuopinji .tupian p{
+	font-size: 1.2em;
+	font-family: 'Cormorant Upright', serif;
+}
+.portrait .col-md-12 h1{
+	padding-top: 100px;
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+}
+
+.portrait {
+	text-align: center;
+}
+
+address{
+	font-family: 'Kodchasan', sans-serif;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.contactform .gdfrm-form-container{
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.signup .gdfrm-form-container{
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.logo{
+	color: lightblue !important; 
+	font-size: 1em; 
+	font-family: 'Chakra Petch', sans-serif;
+}
+
+.bg {
+	background-color: #dde0cd; 
+	padding-top: 70px;
+}
+
+.bg .col-sm-12 .hl{
+	font-size: 4em;
+	font-family: 'Kodchasan', sans-serif; 
+	margin-top: 30px;
+}
+
+.bg .row .sub{
+	background-color: white;
+} 
+
+.thumbnail {
+	max-width: 100%;
+	height: auto;
+	float: right;
+	margin:auto;
+}
+
+.doris {
+	margin-left: 60px;
+	margin-top: 70px; 
+	margin-bottom: 40px;
+	width: 50%; 
+	height: auto;
+}
+
+.iama {
+	margin-top: 70px;
+	font-family: 'Anton', sans-serif;
+	font-size: 2em;
+	padding-bottom: 30px;
+}
+
+.rounded-circle{
+	width:150;
+	height:150;
+}
+
+.icando {
+	font-family: 'Anton', sans-serif; 
+	font-size: 2em; 
+	padding-bottom: 50px;
+	margin-top: 70px;
+}
+
+.clients{
+	font-family: 'Anton', sans-serif; 
+	font-size: 2em; 
+	padding-bottom: 50px;
+	margin-top: 20px;
+}
+
+.h2 {
+	color:#D2B48C;
+}
+
+.btn {
+	background-color: #f9a646;
+	margin-bottom: 40px;
+} 
+
+.btn-primary{
+	background-color: white !important;
+}
+
+.portrait .row .col-md-12 .ditu{
+	position: relative; 
+	padding-bottom: 30%; 
+	padding-top: 30px; 
+	height: 0; 
+	overflow: hidden;
+}
+
+.portrait .row .col-md-12 .ditu iframe{
+	border:0;
+	position: absolute; 
+	top:0; left: 0; 
+	width: 100%; 
+	height: 100%;
+}
+
+.video{
+	padding-top: 40px;
+}
+
+.bg .col-sm-12 h4 p {
+	color: white;
+}
+
+.pic1 {
+	padding-left: 70px;
+}
+
+.text-info {
+	color: #e2da99;
+	line-height: 2.5;
+}
+
+.bottomlogo{
+	float: left; 
+	display: inline; 
+	padding-top: 30px;
+	color: lightblue; 
+	font-size: 2em; 
+	font-family: 'Chakra Petch', sans-serif;
+}
+
+.info {
+	float: right; 
+	display: inline; 
+	padding-right: 100px;
+}
+
+h5 {
+	text-align: center;
+	color: black;
+	font-family: 'Anton', sans-serif; 
+	font-size: 2em; 
+}
+
+footer {
+	background-color: #dde0cd;
+}
+
+h6 {
+	font-size: 5em;
+}
+
+.service {
+	padding-top: 100px;
+}
+
+.service1{
+	font-size: 3em; 
+	font-family: 'Kodchasan', sans-serif;
+}
+
+.photography {
+	padding-top: 50px;
+}
+
+.contact {
+	text-align: center; 
+	font-family: 'Kodchasan', sans-serif; 
+	font-size: 2em;
+}
+
+h3 {
+	padding-top: 30px;
+}
+
+.carousel-style {
+	padding-top: 80px;
+}
